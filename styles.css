@@ -25,6 +25,13 @@ h3 {
     font-size: 18px;
 }
 
+p {
+    color: white;
+    font-family: serif;
+    font-style: normal;
+    font-size: 18px;
+}
+
 #navbar {
     height: 100%;
     width: 15%;
@@ -60,6 +67,7 @@ h3 {
     width: 85%;
     height: 64px;
     position: sticky;
+    top: 0;
     background-color: #E9967A;
     float: left;
     
@@ -72,5 +80,7 @@ h3 {
     width: 85%;
     height: auto;
     position: relative;
-    
+    z-index: -1;
+    top: 0;
+    background-color: #9C5841;
 }
