@@ -66,8 +66,10 @@ p {
 #sale {
     width: 85%;
     height: 64px;
+    position:-webkit-sticky;
     position: sticky;
     top: 0;
+    bottom: auto;
     background-color: #E9967A;
     float: left;
     
