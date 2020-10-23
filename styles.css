@@ -1,0 +1,76 @@
+body {
+    background-color: #9C5841;
+}
+
+h1 {
+    color: white;
+    font-family: serif;
+    font-style: italic;
+    font-size: 24px;
+}
+
+h2 {
+    color: white;
+    font-family: serif;
+    font-style: normal;
+    font-size: 40px;
+    margin-top: 18px;
+    margin-bottom: 18px;
+}
+
+h3 {
+    color: white;
+    font-family: serif;
+    font-style: normal;
+    font-size: 18px;
+}
+
+#navbar {
+    height: 100%;
+    width: 15%;
+    position: fixed;
+    top: 0;
+    right: 0;
+    background-color: #E9967A;
+    padding-top: 20px;
+    
+}
+
+#logo {
+    padding-left: 32px;
+}
+
+#menuitem {
+    padding: 0px 0px 0px 32px
+}
+
+#heading {
+    width: 85%;
+    height: 128px;
+    position: relative;
+    top: 0;
+    left: 0;
+    background-color: #4F2719;
+    float: left;
+    
+    text-align: center;
+}
+
+#sale {
+    width: 85%;
+    height: 64px;
+    position: sticky;
+    background-color: #E9967A;
+    float: left;
+    
+    text
+    text-decoration-color: #695A56;
+    text-align: center;
+}
+
+#featprdcts {
+    width: 85%;
+    height: auto;
+    position: relative;
+    
+}
